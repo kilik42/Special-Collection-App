@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "54056963077d8fb53330f261f5378c74"
+build_time: [1590963975, 466633000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/FavMovies2020_iOSDesign/FavMovies2020_iOSDesign/ViewController.swift": [1590963946, 465493271]
+  "/Users/marvinevins/Library/Autosave Information/FavMovies2020_iOSDesign/FavMovies2020_iOSDesign/AppDelegate.swift": [1590956446, 947320002]
+  "/Users/marvinevins/Library/Autosave Information/FavMovies2020_iOSDesign/FavMovies2020_iOSDesign/SceneDelegate.swift": [1590959326, 191702668]
